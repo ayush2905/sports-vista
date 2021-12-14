@@ -1,0 +1,16 @@
+<resources>
+    <!-- splash screen -->
+    <string name="app_name">avishkar</string>
+    <string name="logo_text">SPORTzVISTA</string>
+    <string name="logo_tag_line">It All Starts Here</string>
+    <string name="logo_image_desc">It is the logo of our app</string>
+    <!-- login page -->
+    <string name="login_lets_roll">Let\'s Roll</string>
+    <string name="login_tagline">Get your Game on.</string>
+    <string name="login_mobile_number">Enter Mobile Number</string>
+    <string name="login_signin_btn">Sign In</string>
+    <string name="login_newtoapp">New to SportzVista?</string>
+    <string name="login_sign_up">Sign-up</string>
+    <string name="login_reg_user_btn">Register as User</string>
+    <string name="login_reg_sportscomp_btn">Register as Sports Complex</string>
+</resources>

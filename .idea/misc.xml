@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yatharth Dhingra/Desktop/AndroidDevelopment/avishkar/app/src/main/res/drawable/register_btn_bg.xml" value="0.2" />
+        <entry key="..\:/Users/Yatharth Dhingra/Desktop/AndroidDevelopment/avishkar/app/src/main/res/drawable/signin_btn_bg.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Yatharth Dhingra/Desktop/AndroidDevelopment/avishkar/app/src/main/res/layout/activity_log_in.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/Yatharth Dhingra/Desktop/AndroidDevelopment/avishkar/app/src/main/res/layout/activity_main.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/Yatharth Dhingra/Desktop/AndroidDevelopment/avishkar/app/src/main/res/layout/get_started.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/Yatharth Dhingra/Desktop/AndroidDevelopment/avishkar/app/src/main/res/layout/log_in.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/hem31/Desktop/avishkar/app/src/main/res/layout/activity_log_in.xml" value="0.12552083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
