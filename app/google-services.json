@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267300749630",
+    "project_id": "sportzvista",
+    "storage_bucket": "sportzvista.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267300749630:android:a4d4fcb9f7d582d3de2c6f",
+        "android_client_info": {
+          "package_name": "com.company.avishkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267300749630-elebq0hs769dmgeen0atbvkatj9r9npj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.avishkar",
+            "certificate_hash": "ab12f925c8bcaae767f6fc083aef6c0dcc4b39eb"
+          }
+        },
+        {
+          "client_id": "267300749630-u2laelb48g9jje4r1m2ft2snscpuvq3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAtBklGEnJv2D8LEtgb63dRhNXlfQXmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267300749630-u2laelb48g9jje4r1m2ft2snscpuvq3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

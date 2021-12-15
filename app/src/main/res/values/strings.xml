@@ -13,4 +13,31 @@
     <string name="login_sign_up">Sign-up</string>
     <string name="login_reg_user_btn">Register as User</string>
     <string name="login_reg_sportscomp_btn">Register as Sports Complex</string>
+    <!-- user registration-->
+    <string name="reg_user_signup_textview">Sign-up as User</string>
+    <string name="reg_user_firstname">First Name</string>
+    <string name="reg_user_lastname">Last Name</string>
+    <string name="reg_user_mobileno">Mobile Number</string>
+    <string name="reg_user_sendotp_btn">Send OTP</string>
+    <string name="reg_user_already">Already Registered?</string>
+    <string name="reg_user_login">Log-In</string>
+    <string name="reg_user_toast_fname">Enter your first name</string>
+    <string name="reg_user_toast_lname">Enter your last name</string>
+    <string name="reg_user_toast_phone">Enter a valid mobile number</string>
+    <!-- sports complex registration page -->
+    <string name="reg_sports_signup_textview">Register your Sports Complex</string>
+    <string name="reg_sports_name">Name</string>
+    <!--    <string name="reg_user_lastname">Last Name</string>-->
+    <!--    <string name="reg_user_mobileno">Mobile Number</string>-->
+
+    <!-- otp page-->
+    <string name="otp_verification">OTP Verification</string>
+    <string name="otp_enter_text">Enter the OTP sent to you</string>
+    <string name="otp_didnt_receive">Didn\'t receive the OTP?</string>
+    <string name="otp_resend">RESEND-OTP</string>
+    <string name="otp_submit">Submit</string>
+    <string name="otp_toast_error">Error: Please check Internet connection</string>
+    <string name="otp_toast_fillall">Enter all the numbers</string>
+    <string name="otp_toast_incorrect">Enter the correct OTP</string>
+    <string name="otp_toast_resend_succ">OTP resent Successfully</string>
 </resources>
